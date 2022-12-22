@@ -1,0 +1,45 @@
+Kac yasindasiniz? 
+Hangi tur bir bolgede yasiyosun?
+1-) Buyuksehir
+2-) Sehir
+3-) Koy
+4-) Sehirden uzak luks villa
+Hangi yemegi tercih edersin?
+1-) Kebap
+2-) Hamburger
+3-) Salata
+4-) Kuru Fasulye
+5-) Patates Kizartmasi
+Sigara iciyor musun?
+1-) Evet
+2-) Hayir
+Alkol tuketir misin
+1-) Evet
+2-) Hayir
+Ne siklikla spor yaparsin?
+1-) Nadiren
+2-) Ayda 1-2 defa
+3-) Haftada 2-3 defa
+4-) Her gun
+Ne siklikla doktora gidersin?
+1-) Yilda 1 defa
+2-) Yilda 3-5 defa
+3-) Ayda 1 defa
+Kronik bir rahatsizliginiz var mi?
+1-) Evet
+2-) Hayir
+3-) Bilmiyorum
+Ne tur bir iste calisiyorsun?
+1-) Genellikle emek gucune dayali
+2-) Genellikle beyin gucune dayali
+3-) Ogrenciyim
+Gunde kac saat oturuyosun?
+1-) 0-2 saat
+2-) 2-4 saat
+3-) 4-6 saat
+4-) 6 saatten fazla
+Gunde kac saat uyursun?
+1-) 2-5 saat
+2-) 5-8 saat
+3-) 8-10 saat
+4-) 10 saatten fazla
